@@ -10,7 +10,8 @@ This project, “Book Genre Classification using Text Analysis in Python”, aim
 
 [Google Colab](https://colab.research.google.com)  
 [VS Code](https://code.visualstudio.com)  
-[Anacode Distribution](https://www.anaconda.com/download)  
+[Anacode Distribution](https://www.anaconda.com/download) 
+[Streamlit](https://streamlit.io) 
 
 ## Installation
 
